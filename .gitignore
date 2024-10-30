@@ -13,3 +13,12 @@ target/
 *.exe
 *.luac
 
+# Archives
+*.tar.*
+*.rar
+*.zip
+*.7z
+
+# Other
+*.tmp
+*~
