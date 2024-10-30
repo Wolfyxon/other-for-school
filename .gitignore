@@ -1,0 +1,12 @@
+# IDEs and code editors
+.idea/
+.vscode/
+
+# Binaries and compiled code
+*.d
+*.so
+*.out
+*.dll
+*.exe
+*.luac
+
