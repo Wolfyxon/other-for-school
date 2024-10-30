@@ -3,6 +3,9 @@
 .vscode/
 
 # Binaries and compiled code
+build/
+target/
+
 *.d
 *.so
 *.out
